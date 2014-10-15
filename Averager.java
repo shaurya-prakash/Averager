@@ -2,8 +2,8 @@
 *
 * Reads in scores until a negative value is encountered, at which point it determines and prints the average
 *
-* @author <your name here>
-* @version <date you finished the code>
+* @author <Shaurya Prakash>
+* @version <14/10/2014>
 *
 */
 
